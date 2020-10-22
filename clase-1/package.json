@@ -1,0 +1,20 @@
+{
+  "name": "axios-practice",
+  "version": "1.0.0",
+  "description": "Esta recopilacion de scripts con fines didacticos para la clase 1 de cinta negra del b46.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "axios",
+    "api",
+    "request"
+  ],
+  "author": "Jazmin Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}

@@ -160,13 +160,17 @@ console.log(avgClaseA);
 
 
 //4. Con la misma lista, obtner la mediana
+//- Ordenar la lista
+//- Validar si la cantidad de calificaciones es par o impar
+// Tomar el valor de en medio
 
 const ordenarLista = claseA.sort( (a,b) => a-b);
-const media = ordenarLista [i]  / 2
+const media = (ordenarLista.length /2)
 
-console.log( media)
+console.log(media)
 
 
 
 //4. Con la misma lista, obtner la moda 
+
 
